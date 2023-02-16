@@ -1,0 +1,70 @@
+div{
+    text-align: justify;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+header{
+    color: rgb(215, 87, 108);
+    font-size: 24px;
+    font-family: Poppins, sans-serif;
+    text-align: left;
+}
+body{
+    padding: 10px;
+    background-color: rgb(255, 252, 248);
+    font-size: 125%;
+}
+
+nav ul li{
+
+    color: blueviolet;
+    display: inline-block;
+    margin: 10px 10px 20px 100px;
+    font-size: 24px;
+}
+
+nav a{
+    text-decoration: underline;
+    justify-content: center;
+}
+
+a:visited{
+    color: brown;
+}
+
+a:hover{
+    outline: none;
+    text-decoration: underline overline;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    color: rgb(47, 47, 47);
+}
+
+img{
+    display: block;
+    width: auto;
+    margin: auto;
+    padding: 10px;
+    transform: .25s;
+}
+
+img:hover{
+    transform: scale(1.15);
+}
+
+footer{
+    color: rgb(44, 44, 44);
+    text-align: left;
+    text-decoration: none;
+}
