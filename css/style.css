@@ -87,14 +87,14 @@ span{
 }
 
 .litc img{
-    width: 30%;
+    width: 100%;
     border-top: solid #bcd2ff 15px;
     border-bottom: solid #c8c3fc 15px;
     border-radius: 5px;
 }
 
 .litc img:hover{
-    width: 40%;
+    width: 100%;
     border-top: solid #bcd2ff 15px;
     border-bottom: solid #c8c3fc 15px;
     border-radius: 5px;
@@ -122,7 +122,7 @@ span{
 }
 
 .historyc img{
-    width: 30%;
+    width: 100%;
     border-top: solid #bcd2ff 15px;
     border-bottom: solid #c8c3fc 15px;
     border-radius: 10px;
